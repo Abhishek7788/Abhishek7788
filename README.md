@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek7788
-- 👀 I’m interested in Python Programming and Machine Learning.
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on Machine Learning.
+- 👀 I’m interested in PHP Theme and Plugin Development.
+- 🌱 I’m currently glowing my skills 
+- 💞️ I’m looking to collaborate on MACHINE LEARNING THROUGH C.
 - 📫 How to reach me- Email- abhishek2290.bhardwaj@gmail.com
 
 <!---
